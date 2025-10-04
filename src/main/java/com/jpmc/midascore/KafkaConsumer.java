@@ -1,5 +1,5 @@
 package com.jpmc.midascore;
-import com.jpmc.midascore.Transaction;
+import com.jpmc.midascore.entity.Transaction;
 // FIX: Ensure this import points to the correct subdirectory
 
 import org.springframework.kafka.annotation.KafkaListener;
